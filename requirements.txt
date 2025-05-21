@@ -1,0 +1,12 @@
+neuralforecast 
+pandas
+scikit-learn
+matplotlib 
+streamlit
+plotly
+pandas
+numpy
+matplotlib
+joblib
+pytorch-lightning
+torch
